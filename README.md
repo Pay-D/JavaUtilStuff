@@ -63,14 +63,20 @@ Eine kleine Gedankenstütze für Simple Java-Anwendungsfälle
 
 ## Weitere Websites
 
+[W3Schools](https://www.w3schools.com/java/default.asp)
+
 [Unsplash](https://unsplash.com/)
 
-[More Util](https://www.site24x7.com/tools.html)
+[More Util](https://www.site24x7.com/tools.html) (not tested)
 
-[Vaadin](https://vaadin.com/)
+[Vaadin](https://vaadin.com/) (not tested)
 
 [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
 
-[LightRun](https://lightrun.com/)
+[LightRun](https://lightrun.com/) (not tested)
 
 [Trianglify](https://trianglify.io/)
+
+[Asymmetrisch Verschlüsseln](https://digi4all.de/modul-03/sicherheit-im-internet/asymmetrische-verschluesselung/)
+
+[Daten in Bild verstecken](https://www.t-online.de/digital/software/id_89536762/microsoft-windows-sensible-dateien-in-einem-foto-verstecken-so-geht-s.html)
